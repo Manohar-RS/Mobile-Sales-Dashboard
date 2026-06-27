@@ -1,6 +1,8 @@
 # Mobile-Sales-Dashboard
 Mobile-Sales-Dashboard Developed by Power-Bi Visualization Tool
 
+## Dashboard Preview
+![Dashboard](p1.png)
 ## Overview
 
 Interactive Power BI Dashboard developed to analyze mobile sales performance.
